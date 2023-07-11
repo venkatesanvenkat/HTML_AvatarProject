@@ -1,0 +1,41 @@
+ body{
+   background-image: url("https://lumiere-a.akamaihd.net/v1/images/avatar-twow-videobg02_fae5d62e.jpeg");
+   background-size: cover;
+   background-repeat: no-repeat;
+}
+ #heading
+ {
+  color:white;
+  background: black;
+  width:500px;
+  text-align: center;
+  margin: auto;
+ }
+ #content
+ {
+  display:flex;
+  background: rgba(0,0,0,0.3);
+  height: auto;
+  width: auto;
+  margin: auto;
+  margin-top: 60px;
+  justify-content: space-between;
+ }
+ img
+ {
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  margin-left: 10px;
+  margin-top: 10px;
+  border-top-left-radius: 50%;
+  border-top-right-radius: 50%;
+ }
+ #title{
+  color:white;
+  display: flex;
+  width: 1350px;
+  background: black;
+  margin: auto;
+  justify-content: space-around;
+ }
